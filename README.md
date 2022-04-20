@@ -1,0 +1,1 @@
+# AGH-PGK-Interpreter_Grafiki_Wektorowej
